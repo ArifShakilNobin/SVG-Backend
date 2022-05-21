@@ -1,0 +1,17 @@
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.Repository.deps.json
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.Repository.runtimeconfig.json
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.Repository.dll
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.Repository.pdb
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.DataAccess.dll
+G:\Home Work\Svg\Svg.Repository\bin\Debug\net6.0\Svg.DataAccess.pdb
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.csproj.AssemblyReference.cache
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.AssemblyInfoInputs.cache
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.AssemblyInfo.cs
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.csproj.CoreCompileInputs.cache
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.csproj.CopyComplete
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.dll
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\refint\Svg.Repository.dll
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.pdb
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\Svg.Repository.genruntimeconfig.cache
+G:\Home Work\Svg\Svg.Repository\obj\Debug\net6.0\ref\Svg.Repository.dll

@@ -1,0 +1,12 @@
+G:\Home Work\Svg\Svg.DataAccess\bin\Debug\net6.0\Svg.DataAccess.deps.json
+G:\Home Work\Svg\Svg.DataAccess\bin\Debug\net6.0\Svg.DataAccess.dll
+G:\Home Work\Svg\Svg.DataAccess\bin\Debug\net6.0\Svg.DataAccess.pdb
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.csproj.AssemblyReference.cache
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.AssemblyInfoInputs.cache
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.AssemblyInfo.cs
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.csproj.CoreCompileInputs.cache
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.dll
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\refint\Svg.DataAccess.dll
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\Svg.DataAccess.pdb
+G:\Home Work\Svg\Svg.DataAccess\obj\Debug\net6.0\ref\Svg.DataAccess.dll
